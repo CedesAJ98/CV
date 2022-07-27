@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FCE2DB;
+  border-width: 5px;
+  width: 15%;
+}
+
+p, li, td, th{
+  color: white;
+}
+
+h1, h2{
+  color: pink;
+}
+
+.circular{
+  border-radius: 100%;
+}
